@@ -1,6 +1,16 @@
 # assets
+> CC0 licensed assets for promoting anarchist events, programs, etc.
 
-![pixelflag](./pixelflag.png)
+creating promotional materials for anarchist, communist, antifa, or related
+events can be time-consuming and difficult due to limited resources. this
+repo intends to serve as a home for CC0 licensed assets that can be used
+to build these materials.
+
+if you'd like to add an asset to this repo, please open a PR! if you would
+like to request an asset that is not present in this repo, please open an
+issue.
+
+### license
 
 <p xmlns:dct="http://purl.org/dc/terms/">
   <a rel="license"
